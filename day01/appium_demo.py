@@ -25,7 +25,7 @@ e2 = driver.find_element(By.XPATH, '//*[@text="建议"]')
 time.sleep(2)
 driver.drag_and_drop(e1, e2)
 time.sleep(2)
-driver.swipe(100, 100, 100, 1000)
+driver.swipe(200, 300, 200, 1000)
 time.sleep(2)
 
 driver.find_element(By.XPATH, '//*[@text="WLAN"]').click()
