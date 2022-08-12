@@ -1,0 +1,37 @@
+2022-08-08 09:22:44,193 INFO [root] [get_google_code.py (calGoogleCode:10] - secretKey: zuwhrtmfuo5rrmfe6jw2yb7w3sf3jc3g
+2022-08-08 09:22:44,193 INFO [root] [get_google_code.py (calGoogleCode:12] - secretKey upper: ZUWHRTMFUO5RRMFE6JW2YB7W3SF3JC3G
+2022-08-08 09:22:44,194 INFO [root] [get_google_code.py (calGoogleCode:14] - input: 55330725
+2022-08-08 09:22:44,194 INFO [root] [get_google_code.py (calGoogleCode:16] - key: b'\xcd,x\xcd\x85\xa3\xbb\x18\xb0\xa4\xf2m\xac\x07\xf6\xdc\x8b\xb4\x8bf'
+2022-08-08 09:22:44,194 INFO [root] [get_google_code.py (calGoogleCode:18] - msg: b'\x00\x00\x00\x00\x03LG\xa5'
+2022-08-08 09:22:44,208 INFO [root] [get_google_code.py (calGoogleCode:20] - googleCode: b'M\x0f1\x03H\xf3\xd3\t\xa1\xd0\x1f\xc1\xa0b\xb1\xc9\xbc\x0e\x83%'
+2022-08-08 09:22:44,209 INFO [root] [get_google_code.py (calGoogleCode:23] - sys.version_info: sys.version_info(major=3, minor=10, micro=4, releaselevel='final', serial=0)
+2022-08-08 09:22:44,209 INFO [root] [get_google_code.py (calGoogleCode:25] - o: 5
+2022-08-08 09:22:44,209 INFO [root] [get_google_code.py (calGoogleCode:30] - googleCode: 210401
+2022-08-08 09:22:44,210 INFO [root] [get_google_code.py (calGoogleCode:10] - secretKey: ne4weqjz7utzgkryur5ptgogu5oj2zig
+2022-08-08 09:22:44,210 INFO [root] [get_google_code.py (calGoogleCode:12] - secretKey upper: NE4WEQJZ7UTZGKRYUR5PTGOGU5OJ2ZIG
+2022-08-08 09:22:44,210 INFO [root] [get_google_code.py (calGoogleCode:14] - input: 55330725
+2022-08-08 09:22:44,210 INFO [root] [get_google_code.py (calGoogleCode:16] - key: b"i9bA9\xfd'\x93*8\xa4z\xf9\x99\xc6\xa7\\\x9de\x06"
+2022-08-08 09:22:44,211 INFO [root] [get_google_code.py (calGoogleCode:18] - msg: b'\x00\x00\x00\x00\x03LG\xa5'
+2022-08-08 09:22:44,211 INFO [root] [get_google_code.py (calGoogleCode:20] - googleCode: b'1L\xf6\xcc/\xe01V,]/\xfe\n=\x08f\xee\xf8\xbe\xe6'
+2022-08-08 09:22:44,211 INFO [root] [get_google_code.py (calGoogleCode:23] - sys.version_info: sys.version_info(major=3, minor=10, micro=4, releaselevel='final', serial=0)
+2022-08-08 09:22:44,211 INFO [root] [get_google_code.py (calGoogleCode:25] - o: 6
+2022-08-08 09:22:44,211 INFO [root] [get_google_code.py (calGoogleCode:30] - googleCode: 731037
+2022-08-08 09:22:44,212 INFO [root] [get_google_code.py (calGoogleCode:10] - secretKey: rcb6oqkkhofdlj5ompri3hdejfkt2yro
+2022-08-08 09:22:44,212 INFO [root] [get_google_code.py (calGoogleCode:12] - secretKey upper: RCB6OQKKHOFDLJ5OMPRI3HDEJFKT2YRO
+2022-08-08 09:22:44,213 INFO [root] [get_google_code.py (calGoogleCode:14] - input: 55330725
+2022-08-08 09:22:44,213 INFO [root] [get_google_code.py (calGoogleCode:16] - key: b'\x88\x83\xe7AJ;\x8a5\xa7\xaec\xe2\x8d\x9cdIU=b.'
+2022-08-08 09:22:44,214 INFO [root] [get_google_code.py (calGoogleCode:18] - msg: b'\x00\x00\x00\x00\x03LG\xa5'
+2022-08-08 09:22:44,214 INFO [root] [get_google_code.py (calGoogleCode:20] - googleCode: b't\xad>\x9d\x14\xd7\x9af_L5\xd1\xd7tj\x9b7\xee\xb0Q'
+2022-08-08 09:22:44,214 INFO [root] [get_google_code.py (calGoogleCode:23] - sys.version_info: sys.version_info(major=3, minor=10, micro=4, releaselevel='final', serial=0)
+2022-08-08 09:22:44,215 INFO [root] [get_google_code.py (calGoogleCode:25] - o: 1
+2022-08-08 09:22:44,215 INFO [root] [get_google_code.py (calGoogleCode:30] - googleCode: 78164
+2022-08-08 09:22:44,215 INFO [root] [get_google_code.py (calGoogleCode:32] - googleCode: 78164
+2022-08-08 09:22:44,215 INFO [root] [get_google_code.py (calGoogleCode:10] - secretKey: n4reogis6cxodn34hryo7f7l3vvfdb4o
+2022-08-08 09:22:44,216 INFO [root] [get_google_code.py (calGoogleCode:12] - secretKey upper: N4REOGIS6CXODN34HRYO7F7L3VVFDB4O
+2022-08-08 09:22:44,216 INFO [root] [get_google_code.py (calGoogleCode:14] - input: 55330725
+2022-08-08 09:22:44,216 INFO [root] [get_google_code.py (calGoogleCode:16] - key: b'o"G\x19\x12\xf0\xae\xe1\xb7|<p\xef\x97\xeb\xddjQ\x87\x8e'
+2022-08-08 09:22:44,216 INFO [root] [get_google_code.py (calGoogleCode:18] - msg: b'\x00\x00\x00\x00\x03LG\xa5'
+2022-08-08 09:22:44,217 INFO [root] [get_google_code.py (calGoogleCode:20] - googleCode: b'\x9d\xaa\x13n\x14q:3\x16e\xbe]\x8e\x7f\xf8\x14\xb6xH\xde'
+2022-08-08 09:22:44,217 INFO [root] [get_google_code.py (calGoogleCode:23] - sys.version_info: sys.version_info(major=3, minor=10, micro=4, releaselevel='final', serial=0)
+2022-08-08 09:22:44,217 INFO [root] [get_google_code.py (calGoogleCode:25] - o: 14
+2022-08-08 09:22:44,217 INFO [root] [get_google_code.py (calGoogleCode:30] - googleCode: 623352

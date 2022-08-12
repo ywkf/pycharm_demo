@@ -1,0 +1,49 @@
+2022-08-05 10:44:41,157 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:44:41,184 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080709晓辉在路上集锦版（重播前一天）
+2022-08-05 10:44:41,291 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:44:41,307 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:44:41,308 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:44:42,419 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:44:42,481 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:44:43,955 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:44:43,976 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080708法治现场集锦版（重播前一天）
+2022-08-05 10:44:44,095 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:44:44,105 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:44:44,105 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:44:45,205 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:44:45,278 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:44:46,693 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:44:46,714 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080707好剧连连看-7独刺
+2022-08-05 10:44:46,830 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:44:46,840 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:44:46,840 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:44:47,933 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:44:48,008 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:44:49,444 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:44:49,468 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080706好剧连连看-6独刺
+2022-08-05 10:44:49,577 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:44:49,585 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:44:49,585 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:44:50,811 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:44:50,862 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:44:53,956 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:44:53,980 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080705好剧连连看-5独刺
+2022-08-05 10:44:54,093 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:44:54,105 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:44:54,106 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:44:55,207 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:44:55,290 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:44:59,363 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:44:59,389 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080704好剧连连看-4独刺
+2022-08-05 10:44:59,513 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:44:59,521 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:44:59,521 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:45:00,788 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:45:00,857 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:45:02,368 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:45:02,391 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080703好剧连连看-3独刺
+2022-08-05 10:45:02,508 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:45:02,518 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:45:02,518 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:45:03,750 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:45:03,808 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮

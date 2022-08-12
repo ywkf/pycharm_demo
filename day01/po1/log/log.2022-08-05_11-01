@@ -1,0 +1,19 @@
+2022-08-05 11:00:32,528 INFO [root] [page_login.py (page_login:52] - 开始登录
+2022-08-05 11:00:32,529 INFO [root] [page_login.py (page_input_username:12] - 输入用户名
+2022-08-05 11:00:32,627 INFO [root] [page_login.py (page_input_pwd:17] - 输入密码
+2022-08-05 11:00:32,699 INFO [root] [page_login.py (page_click_login_btn:22] - 点击登录按钮
+2022-08-05 11:00:42,167 INFO [root] [page_login.py (page_input_vcode:32] - 输入验证码
+2022-08-05 11:00:42,244 INFO [root] [page_login.py (page_click_vcode_btn:37] - 点击验证码提交按钮
+2022-08-05 11:00:45,514 INFO [root] [page_home.py (page_home_click_pmake:10] - 点击主页节目制作
+2022-08-05 11:00:48,716 INFO [root] [page_prog_make.py (page_click_project_btn:14] - 点击工程文件菜单按钮
+2022-08-05 11:00:48,815 INFO [root] [page_prog_make.py (page_pmake_click_pro1_edit:19] - 点击节目工程1编辑按钮
+2022-08-05 11:01:11,201 INFO [root] [page_prog_make.py (page_pmake_get_pro1_name:64] - 获取最新节目工程名称: 080701好剧连连看-1独刺
+2022-08-05 11:01:11,225 INFO [root] [page_prog_make.py (page_pmake_get_pro2_name:70] - 获取次新节目工程名称: 080738法治现场集锦版（次日重播1次）
+2022-08-05 11:01:11,226 INFO [root] [page_prog_make.py (page_pmake_copy_is_enable:75] - 判断最新节目工程复制按钮是否可用
+2022-08-05 11:01:11,245 INFO [root] [page_prog_make.py (page_pmake_get_pro_name_list:54] - 获取节目工程名称列表
+2022-08-05 11:01:16,593 INFO [root] [page_prog_make.py (page_pmake_get_pro_name_list:54] - 获取节目工程名称列表
+2022-08-05 11:01:19,880 INFO [root] [page_prog_make.py (page_pmake_get_pro1_name:64] - 获取最新节目工程名称: 080701好剧连连看-1独刺
+2022-08-05 11:01:19,900 INFO [root] [page_prog_make.py (page_pmake_get_pro2_name:70] - 获取次新节目工程名称: 080738法治现场集锦版（次日重播1次）
+2022-08-05 11:01:19,900 INFO [root] [page_prog_make.py (page_pmake_copy_is_enable:75] - 判断最新节目工程复制按钮是否可用
+2022-08-05 11:01:19,916 INFO [root] [page_prog_make.py (page_pmake_get_pro_name_list:54] - 获取节目工程名称列表
+2022-08-05 11:01:25,198 INFO [root] [page_prog_make.py (page_pmake_get_pro_name_list:54] - 获取节目工程名称列表

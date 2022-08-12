@@ -1,0 +1,9 @@
+2022-08-04 17:34:05,197 INFO [root] [page_login.py (page_login:52] - 开始登录
+2022-08-04 17:34:05,198 INFO [root] [page_login.py (page_input_username:12] - 输入用户名
+2022-08-04 17:34:05,285 INFO [root] [page_login.py (page_input_pwd:17] - 输入密码
+2022-08-04 17:34:05,355 INFO [root] [page_login.py (page_click_login_btn:22] - 点击登录按钮
+2022-08-04 17:34:12,582 INFO [root] [page_login.py (page_input_vcode:32] - 输入验证码
+2022-08-04 17:34:12,653 INFO [root] [page_login.py (page_click_vcode_btn:37] - 点击验证码提交按钮
+2022-08-04 17:34:13,061 INFO [root] [page_home.py (page_home_click_pmake:10] - 点击主页节目制作
+2022-08-04 17:34:16,220 INFO [root] [page_prog_make.py (page_click_project_btn:14] - 点击工程文件菜单按钮
+2022-08-04 17:34:16,283 INFO [root] [page_prog_make.py (page_pmake_click_pro1_edit:19] - 点击节目工程1编辑按钮

@@ -1,0 +1,75 @@
+1657695736760	geckodriver	INFO	Listening on 127.0.0.1:1557
+1657695739918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1558" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofilervj5YG"
+1657695741561	Marionette	INFO	Marionette enabled
+1657695741568	Marionette	INFO	Listening on port 1569
+WebDriver BiDi listening on ws://localhost:1558
+Read port: 1569
+1657695742254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofilervj5YG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1558/devtools/browser/a3c40049-7cf3-42e1-8362-82f081a22f47
+1657695774551	Marionette	INFO	Stopped listening on port 1569
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657695828319	geckodriver	INFO	Listening on 127.0.0.1:1778
+1657695831346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofiledtvy1v"
+1657695831816	Marionette	INFO	Marionette enabled
+1657695831821	Marionette	INFO	Listening on port 1790
+WebDriver BiDi listening on ws://localhost:1779
+Read port: 1790
+1657695832491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofiledtvy1v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1779/devtools/browser/7bfcc558-154a-4743-b3ef-8e1c00ddd763
+JavaScript error: resource://gre/modules/addonManager.js, line 256: NS_ERROR_NOT_INITIALIZED
+1657695867999	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1657695869782	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1657695874607	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1657695881038	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Extension error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIDOMWindowUtils.addSheet]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 69"  data: no] undefined 69
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:69:12
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:523:36
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:75:9
+inject/cssPromise<@resource://gre/modules/ExtensionContent.jsm:523:36
+]]
+1657695888561	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1657695891421	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pre-gw.hndt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pre-gw.hndt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657695989168	Marionette	INFO	Stopped listening on port 1790
+1657695991332	geckodriver	INFO	Listening on 127.0.0.1:2049
+1657695994406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2050" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofileRmblxS"
+1657695994872	Marionette	INFO	Marionette enabled
+1657695994876	Marionette	INFO	Listening on port 2060
+WebDriver BiDi listening on ws://localhost:2050
+Read port: 2060
+1657695995386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofileRmblxS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2050/devtools/browser/ce6d1401-15a4-42f6-abff-0e9a5eabbdf3
+1657696084845	Marionette	INFO	Stopped listening on port 2060
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657696111084	geckodriver	INFO	Listening on 127.0.0.1:2229
+1657696114160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofileMDpp4d"
+1657696114574	Marionette	INFO	Marionette enabled
+1657696114579	Marionette	INFO	Listening on port 2246
+WebDriver BiDi listening on ws://localhost:2230
+Read port: 2246
+1657696115134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofileMDpp4d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2230/devtools/browser/bfa5e279-4819-43fc-b74e-dd3abfe2858d
+1657696161465	Marionette	INFO	Stopped listening on port 2246
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1657696164446	geckodriver	INFO	Listening on 127.0.0.1:2336
+1657696167452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofilejJetfC"
+1657696167895	Marionette	INFO	Marionette enabled
+1657696167900	Marionette	INFO	Listening on port 2348
+WebDriver BiDi listening on ws://localhost:2337
+Read port: 2348
+1657696168581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofilejJetfC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2337/devtools/browser/2038080c-c772-4541-b843-acfec12460a0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pre-gw.hndt.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pre-gw.hndt.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657764176598	Marionette	INFO	Stopped listening on port 2348

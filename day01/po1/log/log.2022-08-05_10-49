@@ -1,0 +1,110 @@
+2022-08-05 10:49:43,665 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:49:43,694 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080724生活帮4
+2022-08-05 10:49:43,807 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:49:43,808 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:49:44,228 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:49:46,381 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:49:46,401 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080723法治经典剧场-5江南锄奸
+2022-08-05 10:49:46,537 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:49:46,537 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:49:46,635 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:49:48,719 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:49:48,744 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080722生活帮3
+2022-08-05 10:49:48,863 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:49:48,864 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:49:48,956 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:49:50,698 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:49:50,723 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080721河南法治报道
+2022-08-05 10:49:50,857 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:49:50,857 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:49:50,949 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:49:53,622 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:49:53,642 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080720法治现场精编版
+2022-08-05 10:49:53,750 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:49:53,750 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:49:53,855 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:49:56,106 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:49:56,131 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080719晓辉在路上精编版
+2022-08-05 10:49:56,248 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:49:56,249 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:49:56,340 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:49:57,993 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:49:58,016 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080718生活帮2
+2022-08-05 10:49:58,135 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:49:58,136 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:49:58,225 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:00,372 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:00,395 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080717法治经典剧场-4江南锄奸
+2022-08-05 10:50:00,528 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:00,528 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:00,627 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:02,843 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:02,866 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080716法治经典剧场-3江南锄奸
+2022-08-05 10:50:02,993 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:02,993 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:03,087 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:05,321 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:05,341 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080715法治经典剧场-2江南锄奸
+2022-08-05 10:50:05,449 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:05,449 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:05,536 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:07,191 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:07,219 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080714法治经典剧场-1江南锄奸
+2022-08-05 10:50:07,352 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:07,352 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:07,453 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:09,262 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:09,291 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080713生活帮1
+2022-08-05 10:50:09,411 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:09,411 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:09,508 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:18,288 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:18,309 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080712晓辉在路上精编版重播
+2022-08-05 10:50:18,426 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:18,426 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:18,519 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:20,638 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:20,666 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080711法治现场精编版重播
+2022-08-05 10:50:20,779 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:20,779 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:20,866 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:23,225 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:23,265 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080710河南法治报道晚间版（重播前一天）
+2022-08-05 10:50:23,384 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:23,385 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:23,475 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:26,982 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:27,003 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080709晓辉在路上集锦版（重播前一天）
+2022-08-05 10:50:27,110 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:27,110 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:27,199 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:29,286 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:29,306 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080708法治现场集锦版（重播前一天）
+2022-08-05 10:50:29,430 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:29,432 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:29,533 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:31,255 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:31,277 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080707好剧连连看-7独刺
+2022-08-05 10:50:31,420 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:31,420 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:31,503 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:33,671 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:33,691 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080706好剧连连看-6独刺
+2022-08-05 10:50:33,799 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:33,800 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:33,877 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:36,264 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:36,286 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080705好剧连连看-5独刺
+2022-08-05 10:50:36,402 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:36,403 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:36,486 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:38,691 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:38,718 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080704好剧连连看-4独刺
+2022-08-05 10:50:38,829 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:38,830 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:38,906 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-05 10:50:40,612 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:40,637 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080703好剧连连看-3独刺
+2022-08-05 10:50:40,756 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:40,756 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:40,892 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮

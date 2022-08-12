@@ -1,0 +1,4 @@
+2022-08-05 11:19:20,169 INFO [root] [page_login.py (page_login:52] - 开始登录
+2022-08-05 11:19:20,171 INFO [root] [page_login.py (page_input_username:12] - 输入用户名
+2022-08-05 11:19:20,268 INFO [root] [page_login.py (page_input_pwd:17] - 输入密码
+2022-08-05 11:19:20,340 INFO [root] [page_login.py (page_click_login_btn:22] - 点击登录按钮

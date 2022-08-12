@@ -1,0 +1,32 @@
+2022-08-04 17:38:02,002 INFO [root] [page_login.py (page_login:52] - 开始登录
+2022-08-04 17:38:02,003 INFO [root] [page_login.py (page_input_username:12] - 输入用户名
+2022-08-04 17:38:02,106 INFO [root] [page_login.py (page_input_pwd:17] - 输入密码
+2022-08-04 17:38:02,181 INFO [root] [page_login.py (page_click_login_btn:22] - 点击登录按钮
+2022-08-04 17:38:05,796 INFO [root] [page_login.py (page_input_vcode:32] - 输入验证码
+2022-08-04 17:38:05,874 INFO [root] [page_login.py (page_click_vcode_btn:37] - 点击验证码提交按钮
+2022-08-04 17:38:06,281 INFO [root] [page_home.py (page_home_click_pmake:10] - 点击主页节目制作
+2022-08-04 17:38:09,487 INFO [root] [page_prog_make.py (page_click_project_btn:14] - 点击工程文件菜单按钮
+2022-08-04 17:38:09,558 INFO [root] [page_prog_make.py (page_pmake_click_pro1_edit:19] - 点击节目工程1编辑按钮
+2022-08-04 17:38:30,277 INFO [root] [page_prog_make.py (page_pmake_get_pro1_name:64] - 获取最新节目工程名称: 072501好剧连连看-1神秘人质
+2022-08-04 17:38:30,304 INFO [root] [page_prog_make.py (page_pmake_get_pro2_name:70] - 获取次新节目工程名称: 072501好剧连连看-1神秘人质
+2022-08-04 17:38:30,304 INFO [root] [page_prog_make.py (page_pmake_copy_is_enable:75] - 判断最新节目工程复制按钮是否可用
+2022-08-04 17:38:30,323 INFO [root] [page_prog_make.py (page_pmake_get_pro_name_list:54] - 获取节目工程名称列表
+2022-08-04 17:38:35,738 INFO [root] [page_prog_make.py (page_pmake_get_pro_name_list:54] - 获取节目工程名称列表
+2022-08-04 17:38:36,021 INFO [root] [page_prog_make.py (page_pmake_click_pro1_edit:19] - 点击节目工程1编辑按钮
+2022-08-04 17:38:39,140 INFO [root] [page_mskj.py (pac_page_mskj_edit_sub_to_check:191] - 开始 编辑字幕保存导出绑定提审，并返回结果
+2022-08-04 17:38:39,142 INFO [root] [page_mskj.py (pac_page_mskj_edit_sub_save:143] - 修改字幕保存
+2022-08-04 17:38:39,143 INFO [root] [page_mskj.py (page_mskj_click_tl_sub:14] - 点击时间线字幕
+2022-08-04 17:38:39,641 INFO [root] [page_mskj.py (page_mskj_double_click_tl_sub:19] - 点击时间线字幕
+2022-08-04 17:38:40,104 INFO [root] [page_mskj.py (page_mskj_input_sub_text:24] - 点击时间线字幕
+2022-08-04 17:38:41,061 INFO [root] [page_mskj.py (page_mskj_click_centerdown:29] - 点击字幕向下居中
+2022-08-04 17:38:41,141 INFO [root] [page_mskj.py (page_mskj_move_to_save_menu:34] - 鼠标移动到保存菜单处
+2022-08-04 17:38:41,430 INFO [root] [page_mskj.py (page_mskj_click_save_btn:39] - 点击菜单保存按钮
+2022-08-04 17:38:43,518 INFO [root] [page_mskj.py (pac_page_mskj_export_to_check:153] - 导出视频详情页编辑并提交审核
+2022-08-04 17:38:43,519 INFO [root] [page_mskj.py (page_mskj_click_export_btn:44] - 点击导出视频按钮
+2022-08-04 17:38:43,644 INFO [root] [page_mskj.py (page_mskj_input_export_porg_name:49] - 详情页输入节目名称
+2022-08-04 17:38:43,974 INFO [root] [page_mskj.py (page_mskj_select_export_tv:54] - 详情页选择电视播出选项
+2022-08-04 17:38:44,031 INFO [root] [page_mskj.py (page_mskj_click_export_get_cover_btn:59] - 详情页点击获取封面按钮
+2022-08-04 17:38:45,076 INFO [root] [page_mskj.py (page_mskj_click_export_check:64] - 详情页点击提交审核按钮
+2022-08-04 17:38:47,164 INFO [root] [page_mskj.py (pac_page_mskj_select_month:163] - 节目绑定窗口选择月份
+2022-08-04 17:38:47,165 INFO [root] [page_mskj.py (page_mskj_binding_month_is_equal:79] - 判断预播日期月份是否相等
+2022-08-04 17:38:47,166 INFO [root] [page_mskj.py (page_mskj_binding_get_month:74] - 获取日期窗口当前月份

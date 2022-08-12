@@ -1,0 +1,84 @@
+2022-08-04 17:31:35,500 INFO [root] [page_login.py (page_input_vcode:32] - 输入验证码
+2022-08-04 17:31:35,571 INFO [root] [page_login.py (page_click_vcode_btn:37] - 点击验证码提交按钮
+2022-08-04 17:31:36,110 INFO [root] [page_home.py (page_home_click_pmake:10] - 点击主页节目制作
+2022-08-04 17:31:39,295 INFO [root] [page_check_fin.py (page_click_prog2check_btn:10] - 点击待审节目菜单按钮
+2022-08-04 17:31:39,943 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-06
+2022-08-04 17:31:39,965 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080615法治经典剧场-2江南锄奸
+2022-08-04 17:31:40,097 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-04 17:31:40,097 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-04 17:31:40,499 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-04 17:31:42,945 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-06
+2022-08-04 17:31:42,969 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080601好剧连连看-1邮差
+2022-08-04 17:31:43,074 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-04 17:31:43,074 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-04 17:31:43,141 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮
+2022-08-04 17:31:44,743 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:44,763 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:44,893 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:44,909 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:45,043 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:45,059 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:45,179 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:45,193 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:45,316 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:45,331 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:45,449 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:45,462 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:45,592 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:45,608 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:45,727 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:45,742 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:45,873 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:45,885 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:46,008 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:46,024 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:46,155 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:46,170 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:46,294 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:46,310 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:46,427 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:46,443 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:46,575 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:46,589 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:46,849 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:46,866 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:47,033 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:47,048 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:47,212 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:47,225 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:47,397 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:47,413 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:47,567 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:47,582 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:47,751 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:47,766 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:47,931 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:47,947 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:48,099 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:48,115 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:48,281 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:48,298 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:48,456 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:48,467 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:48,648 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:48,663 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:48,840 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:48,853 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:49,016 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:49,031 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:49,182 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:49,196 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:49,368 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:49,382 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:49,548 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:49,564 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:49,724 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:49,741 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:49,901 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:49,916 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:50,081 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:50,097 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:50,261 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:50,273 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4
+2022-08-04 17:31:50,394 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-04-14
+2022-08-04 17:31:50,407 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 2022清明奇妙游宣传片.mp4

@@ -1,0 +1,5 @@
+2022-08-05 10:50:43,117 INFO [root] [page_check_fin.py (page_check_get_prog1_date:27] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:50:43,138 INFO [root] [page_check_fin.py (page_check_get_prog1_name:21] - 获取审核列表节目1名称: 080702好剧连连看-2独刺
+2022-08-05 10:50:43,251 INFO [root] [page_check_fin.py (pac_page_check_prog_check_fin_pass:37] - 开始节目终审 通过
+2022-08-05 10:50:43,251 INFO [root] [page_check_fin.py (page_check_click_check_btn:15] - 点击审核按钮
+2022-08-05 10:50:43,320 INFO [root] [page_check_fin.py (page_check_click_pass_btn:32] - 点击审核通过按钮

@@ -1,0 +1,31 @@
+2022-08-08 16:58:27,985 INFO [root] [page_login.py (page_login_ignore_vcode:56] - 开始登录（无验证码）
+2022-08-08 16:58:27,988 INFO [root] [page_login.py (page_input_username:13] - 输入用户名: 19933333333
+2022-08-08 16:58:28,097 INFO [root] [page_login.py (page_input_pwd:18] - 输入密码: 
+2022-08-08 16:58:28,162 INFO [root] [page_login.py (page_click_login_btn:23] - 点击登录按钮
+2022-08-08 16:58:28,734 INFO [root] [page_login.py (page_get_login_message:29] - 获取登录提示信息: 请输入密码
+2022-08-08 16:58:28,735 INFO [root] [page_login.py (page_login_ignore_vcode:56] - 开始登录（无验证码）
+2022-08-08 16:58:28,735 INFO [root] [page_login.py (page_input_username:13] - 输入用户名: 
+2022-08-08 16:58:28,801 INFO [root] [page_login.py (page_input_pwd:18] - 输入密码: 123456
+2022-08-08 16:58:28,874 INFO [root] [page_login.py (page_click_login_btn:23] - 点击登录按钮
+2022-08-08 16:58:29,436 INFO [root] [page_login.py (page_get_login_message:29] - 获取登录提示信息: 请输入手机号
+2022-08-08 16:58:29,437 INFO [root] [page_login.py (page_login_ignore_vcode:56] - 开始登录（无验证码）
+2022-08-08 16:58:29,437 INFO [root] [page_login.py (page_input_username:13] - 输入用户名: 1a
+2022-08-08 16:58:29,484 INFO [root] [page_login.py (page_input_pwd:18] - 输入密码: 123456
+2022-08-08 16:58:29,561 INFO [root] [page_login.py (page_click_login_btn:23] - 点击登录按钮
+2022-08-08 16:58:30,119 INFO [root] [page_login.py (page_get_login_message:29] - 获取登录提示信息: 要操作的用户不存在
+2022-08-08 16:58:30,432 INFO [root] [page_login.py (page_login_ignore_vcode:56] - 开始登录（无验证码）
+2022-08-08 16:58:30,433 INFO [root] [page_login.py (page_input_username:13] - 输入用户名: 19933333333
+2022-08-08 16:58:30,512 INFO [root] [page_login.py (page_input_pwd:18] - 输入密码: 123123
+2022-08-08 16:58:30,589 INFO [root] [page_login.py (page_click_login_btn:23] - 点击登录按钮
+2022-08-08 16:58:31,137 INFO [root] [page_login.py (page_get_login_message:29] - 获取登录提示信息: 密码错误
+2022-08-08 16:58:31,138 INFO [root] [page_login.py (page_login:66] - 开始登录
+2022-08-08 16:58:31,138 INFO [root] [page_login.py (page_input_username:13] - 输入用户名: 19933333333
+2022-08-08 16:58:31,217 INFO [root] [page_login.py (page_input_pwd:18] - 输入密码: 123456
+2022-08-08 16:58:31,282 INFO [root] [page_login.py (page_click_login_btn:23] - 点击登录按钮
+2022-08-08 16:58:32,318 INFO [root] [page_login.py (page_input_vcode:40] - 输入验证码: 
+2022-08-08 16:58:32,376 INFO [root] [page_login.py (page_click_vcode_btn:46] - 点击验证码提交按钮
+2022-08-08 16:58:32,938 INFO [root] [page_login.py (page_get_login_message:29] - 获取登录提示信息: 动态口令
+2022-08-08 16:58:33,176 INFO [root] [page_login.py (page_login:66] - 开始登录
+2022-08-08 16:58:33,176 INFO [root] [page_login.py (page_input_username:13] - 输入用户名: 19933333333
+2022-08-08 16:58:33,255 INFO [root] [page_login.py (page_input_pwd:18] - 输入密码: 123456
+2022-08-08 16:58:33,321 INFO [root] [page_login.py (page_click_login_btn:23] - 点击登录按钮

@@ -1,0 +1,90 @@
+2022-08-05 10:42:05,695 INFO [root] [page_login.py (page_login:52] - 开始登录
+2022-08-05 10:42:05,696 INFO [root] [page_login.py (page_input_username:12] - 输入用户名
+2022-08-05 10:42:05,792 INFO [root] [page_login.py (page_input_pwd:17] - 输入密码
+2022-08-05 10:42:05,879 INFO [root] [page_login.py (page_click_login_btn:22] - 点击登录按钮
+2022-08-05 10:42:08,191 INFO [root] [page_login.py (page_input_vcode:32] - 输入验证码
+2022-08-05 10:42:08,259 INFO [root] [page_login.py (page_click_vcode_btn:37] - 点击验证码提交按钮
+2022-08-05 10:42:08,655 INFO [root] [page_home.py (page_home_click_pmake:10] - 点击主页节目制作
+2022-08-05 10:42:11,779 INFO [root] [page_check.py (page_click_prog2check_btn:12] - 点击待审节目菜单按钮
+2022-08-05 10:42:12,912 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:12,949 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080738法治现场集锦版（次日重播1次）
+2022-08-05 10:42:13,064 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:13,075 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:13,076 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:14,303 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:42:14,360 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:42:15,834 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:15,857 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080737晓辉在路上集锦版（次日重播1次）
+2022-08-05 10:42:15,957 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:15,965 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:15,965 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:17,057 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:42:17,126 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:42:18,622 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:18,642 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080736河南法治报道晚间版（次日重播1次）
+2022-08-05 10:42:18,753 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:18,762 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:18,762 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:19,852 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:42:26,977 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:26,996 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080735生活帮5
+2022-08-05 10:42:27,110 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:27,116 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:27,117 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:28,203 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:42:28,263 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:42:29,692 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:29,712 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080734豫事说法
+2022-08-05 10:42:29,816 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:29,826 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:29,826 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:30,912 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:42:30,991 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:42:32,415 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:32,441 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080733法治黄金剧场-3独刺
+2022-08-05 10:42:32,554 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:32,562 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:32,562 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:33,642 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:42:33,697 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:42:35,159 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:35,183 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080732法治黄金剧场-2独刺
+2022-08-05 10:42:35,288 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:35,297 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:35,297 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:36,490 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:42:36,547 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:42:38,024 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:38,066 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080731法治黄金剧场-1独刺
+2022-08-05 10:42:38,181 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:38,191 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:38,191 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:39,279 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:42:39,365 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:42:40,765 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:40,788 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080729晓辉在路上精编版2
+2022-08-05 10:42:40,893 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:40,902 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:40,903 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:41,993 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:42:42,074 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:42:43,474 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:43,495 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080728法治现场精编版2
+2022-08-05 10:42:43,607 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:43,615 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:43,615 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:44,706 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:42:44,765 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:42:46,279 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:46,298 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080727法治经典剧场-8江南锄奸
+2022-08-05 10:42:46,416 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:46,424 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:46,425 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:47,730 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮
+2022-08-05 10:42:47,801 INFO [root] [page_check.py (page_check_click_pass_btn:44] - 点击审核通过按钮
+2022-08-05 10:42:49,354 INFO [root] [page_check.py (page_check_get_prog1_date:34] - 获取审核列表节目1日期: 2022-08-07
+2022-08-05 10:42:49,376 INFO [root] [page_check.py (page_check_get_prog1_name:28] - 获取审核列表节目1名称: 080726法治经典剧场-7江南锄奸
+2022-08-05 10:42:49,492 INFO [root] [page_check.py (page_check_state_is_check_confirm:22] - 获取节目1审核状态是否为技审确认
+2022-08-05 10:42:49,502 INFO [root] [page_check.py (pac_page_check_prog_check_pass:49] - 开始节目技审 确认 通过
+2022-08-05 10:42:49,503 INFO [root] [page_check.py (page_check_click_check_btn:17] - 点击审核按钮
+2022-08-05 10:42:50,916 INFO [root] [page_check.py (page_check_click_check_confirm_btn:39] - 点击技审确认按钮

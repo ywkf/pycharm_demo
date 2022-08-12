@@ -1,0 +1,14 @@
+2022-08-04 17:39:02,319 INFO [root] [page_mskj.py (page_mskj_binding_click_month_btn:86] - 日期窗口点击月份按钮
+2022-08-04 17:39:02,361 INFO [root] [page_mskj.py (page_mskj_binding_click_select_month:91] - 日期窗口选择月份
+2022-08-04 17:39:03,429 INFO [root] [page_mskj.py (pac_page_mskj_select_date:173] - 节目绑定窗口选择日期
+2022-08-04 17:39:03,429 INFO [root] [page_mskj.py (page_mskj_binding_click_select_date:69] - 点击预播日期选择日期
+2022-08-04 17:39:03,483 INFO [root] [page_mskj.py (page_mskj_binding_click_select_day:97] - 日期窗口选择日期
+2022-08-04 17:39:04,571 INFO [root] [page_mskj.py (page_mskj_binding_get_pro1_date:103] - 获取绑定窗口节目1日期
+2022-08-04 17:39:04,619 INFO [root] [page_mskj.py (page_mskj_binding_get_pro1_name:108] - 获取绑定窗口节目1名称
+2022-08-04 17:39:04,644 INFO [root] [page_mskj.py (page_mskj_binding_get_pro2_name:113] - 获取绑定窗口节目2名称
+2022-08-04 17:39:15,622 INFO [root] [test_copy_prog_to_check.py (test_copy_to_check:141] - 不在列表中
+2022-08-04 17:39:18,976 INFO [root] [page_prog_make.py (page_pmake_get_pro1_name:64] - 获取最新节目工程名称: 072501好剧连连看-1神秘人质
+2022-08-04 17:39:18,999 INFO [root] [page_prog_make.py (page_pmake_get_pro2_name:70] - 获取次新节目工程名称: 072501好剧连连看-1神秘人质
+2022-08-04 17:39:18,999 INFO [root] [page_prog_make.py (page_pmake_copy_is_enable:75] - 判断最新节目工程复制按钮是否可用
+2022-08-04 17:39:19,016 INFO [root] [page_prog_make.py (page_pmake_get_pro_name_list:54] - 获取节目工程名称列表
+2022-08-04 17:39:24,366 INFO [root] [page_prog_make.py (page_pmake_get_pro_name_list:54] - 获取节目工程名称列表
