@@ -2,6 +2,8 @@ import time
 
 from appium import webdriver
 from appium.webdriver.common.touch_action import TouchAction
+from appium.webdriver.connectiontype import ConnectionType
+from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -35,7 +37,25 @@ driver.find_element(By.ID, 'com.android.settings:id/switch_widget').click()
 time.sleep(3)
 # driver.find_element(By.XPATH, '//*[@text="WiredSSID"]').click()
 action.long_press(driver.find_element(By.XPATH, '//*[@text="WiredSSID"]'), duration=1000).perform()
+time.sleep(2)
+driver.back()
 
+driver.open_notifications()
+# time.sleep(2)
+driver.back()
+# time.sleep(2)
+print(driver.network_connection)
+# time.sleep(2)
+# driver.set_network_connection(ConnectionType.DATA_ONLY)
+# time.sleep(2)
+print(driver.network_connection)
+# time.sleep(2)
+# driver.set_network_connection(ConnectionType.WIFI_ONLY)
+# time.sleep(2)
+print(driver.network_connection)
+
+
+act = ActionChains(driver)
 
 print('window_size: ', driver.get_window_size())
 # driver.save_screenshot('./image.png')
