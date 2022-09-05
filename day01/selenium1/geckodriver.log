@@ -1,0 +1,12 @@
+1662022569410	geckodriver	INFO	Listening on 127.0.0.1:12085
+1662022572291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofileHY3qIW"
+1662022573129	Marionette	INFO	Marionette enabled
+1662022573134	Marionette	INFO	Listening on port 12102
+Read port: 12102
+1662022574049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\wyf\\AppData\\Local\\Temp\\rust_mozprofileHY3qIW\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+1662022587277	Marionette	INFO	Stopped listening on port 12102
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+[Parent 16404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

@@ -1,0 +1,44 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_city[data10]",
+    "uid" : "b921ad2447e555c0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1662349467626,
+      "stop" : 1662349467646,
+      "duration" : 20
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'city': 1}" ]
+  }, {
+    "name" : "test_city[data11]",
+    "uid" : "9789a2258398a516",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1662349467650,
+      "stop" : 1662349467657,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'city': 2}" ]
+  }, {
+    "name" : "test_city[data12]",
+    "uid" : "142d08eb2b1e55c8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1662349467660,
+      "stop" : 1662349467670,
+      "duration" : 10
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'city': 3}" ]
+  } ]
+}

@@ -1,0 +1,59 @@
+{
+  "uid" : "750c9744673feeb6",
+  "name" : "test_city[data12]",
+  "fullName" : "selenium1.test_weather.TestWeather#test_city",
+  "historyId" : "89ea99968651a9dd9710e13cea81c159",
+  "time" : {
+    "start" : 1662349362342,
+    "stop" : 1662349362350,
+    "duration" : 8
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1002 == 1001",
+  "statusTrace" : "self = <test_weather.TestWeather object at 0x000001875E2A03A0>, data1 = {'city': 3}\n\n    @pytest.mark.parametrize(\"data1\", data_list)\n    def test_city(self, data1):\n    \n    \n        # data = {\n        #     \"city\": data1.get(\"city\")\n        # }\n    \n        response = requests.get(self.url, data=data1).json()\n        print(\"response: \", response)\n        status = response.get(\"status\")\n>       assert status == 1001\nE       assert 1002 == 1001\n\nselenium1\\test_weather.py:26: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "selenium1"
+  }, {
+    "name" : "suite",
+    "value" : "test_weather"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestWeather"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-VOSAPGU"
+  }, {
+    "name" : "thread",
+    "value" : "22068-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "selenium1.test_weather"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data1",
+    "value" : "{'city': 3}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "750c9744673feeb6.json",
+  "parameterValues" : [ "{'city': 3}" ]
+}

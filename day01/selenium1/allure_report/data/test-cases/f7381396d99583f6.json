@@ -1,0 +1,57 @@
+{
+  "uid" : "f7381396d99583f6",
+  "name" : "test_city[data10]",
+  "fullName" : "selenium1.test_weather.TestWeather#test_city",
+  "historyId" : "21988f67e1d4cdd8413ba8aff54794cd",
+  "time" : {
+    "start" : 1662349056197,
+    "stop" : 1662349056210,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "selenium1"
+  }, {
+    "name" : "suite",
+    "value" : "test_weather"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestWeather"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-VOSAPGU"
+  }, {
+    "name" : "thread",
+    "value" : "3212-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "selenium1.test_weather"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data1",
+    "value" : "{'city': 1}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7381396d99583f6.json",
+  "parameterValues" : [ "{'city': 1}" ]
+}

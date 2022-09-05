@@ -1,0 +1,138 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-VOSAPGU",
+    "children" : [ {
+      "name" : "7236-MainThread",
+      "children" : [ {
+        "name" : "test_city[data12]",
+        "uid" : "142d08eb2b1e55c8",
+        "parentUid" : "103c49d5921a6ac27470a11e9c80be45",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662349467660,
+          "stop" : 1662349467670,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'city': 3}" ]
+      }, {
+        "name" : "test_city[data10]",
+        "uid" : "b921ad2447e555c0",
+        "parentUid" : "103c49d5921a6ac27470a11e9c80be45",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662349467626,
+          "stop" : 1662349467646,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'city': 1}" ]
+      }, {
+        "name" : "test_city[data11]",
+        "uid" : "9789a2258398a516",
+        "parentUid" : "103c49d5921a6ac27470a11e9c80be45",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662349467650,
+          "stop" : 1662349467657,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'city': 2}" ]
+      } ],
+      "uid" : "103c49d5921a6ac27470a11e9c80be45"
+    }, {
+      "name" : "22068-MainThread",
+      "children" : [ {
+        "name" : "test_city[data11]",
+        "uid" : "a4097e4ccb41c55a",
+        "parentUid" : "14bddb2105c2373e2b7d46c2b8180f70",
+        "status" : "failed",
+        "time" : {
+          "start" : 1662349362327,
+          "stop" : 1662349362336,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'city': 2}" ]
+      }, {
+        "name" : "test_city[data10]",
+        "uid" : "a4c116504c020ac9",
+        "parentUid" : "14bddb2105c2373e2b7d46c2b8180f70",
+        "status" : "failed",
+        "time" : {
+          "start" : 1662349362157,
+          "stop" : 1662349362204,
+          "duration" : 47
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'city': 1}" ]
+      }, {
+        "name" : "test_city[data12]",
+        "uid" : "750c9744673feeb6",
+        "parentUid" : "14bddb2105c2373e2b7d46c2b8180f70",
+        "status" : "failed",
+        "time" : {
+          "start" : 1662349362342,
+          "stop" : 1662349362350,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'city': 3}" ]
+      } ],
+      "uid" : "14bddb2105c2373e2b7d46c2b8180f70"
+    }, {
+      "name" : "3212-MainThread",
+      "children" : [ {
+        "name" : "test_city[data10]",
+        "uid" : "f7381396d99583f6",
+        "parentUid" : "522fa44f66de339237d4b9aa0c88bb80",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662349056197,
+          "stop" : 1662349056210,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'city': 1}" ]
+      }, {
+        "name" : "test_city[data11]",
+        "uid" : "f6550beb9cabc1d5",
+        "parentUid" : "522fa44f66de339237d4b9aa0c88bb80",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662349056215,
+          "stop" : 1662349056220,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'city': 2}" ]
+      }, {
+        "name" : "test_city[data12]",
+        "uid" : "f822400e3d7b3e8b",
+        "parentUid" : "522fa44f66de339237d4b9aa0c88bb80",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662349056223,
+          "stop" : 1662349056230,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'city': 3}" ]
+      } ],
+      "uid" : "522fa44f66de339237d4b9aa0c88bb80"
+    } ],
+    "uid" : "93e05c3e75483732400c35108111c07a"
+  } ]
+}
